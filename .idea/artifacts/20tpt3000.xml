@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="20tpt3000">
+    <output-path>$PROJECT_DIR$/out/artifacts/20tpt3000</output-path>
+    <root id="archive" name="20tpt3000.jar">
+      <element id="module-output" name="LowPolify" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/out/artifacts/20tpt3000/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
